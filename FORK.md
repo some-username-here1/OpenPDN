@@ -1,4 +1,4 @@
-==[Notes on the Fork]==
+# Notes on the Fork
 
 Forking a vivid software project is usually a bad thing and there are 
 only few reasons when this action is considered legitimated.
@@ -17,7 +17,7 @@ released, giving the authors time to change their minds.
 Their decision has to be respected, but the OpenSource community still 
 has to be able to build upon the last version of this powerful tool.
 
-Main goals of this fork are:
+ ## Main goals of this fork are:
  * Linux port (which means porting it to mono basically)
  * replacing non-free parts (Artworks, General Polygon Clipper as those 
    are only usable non-commercially, making this non-free software in 
@@ -28,4 +28,5 @@ contributors will be credited as well.
 
 
 [1] http://blog.getpaint.net/2009/11/06/a-new-license-for-paintnet-v35/
+
 [2] http://opensource.org/docs/osd
