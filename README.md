@@ -11,3 +11,6 @@ Contains other stuff related to Paint.NET.
 
 * ../src
 All source and other files necessary for building Paint.NET.
+
+## License
+See _src/Resources/Files/License.txt_
