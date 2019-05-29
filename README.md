@@ -5,12 +5,13 @@ the wrong package. Just thought we'd let you know.
 For information on building Paint.NET, refer to src/readme.txt
 
 ## Directory Layout
+* extras/
 
-* ../extras
 Contains other stuff related to Paint.NET.
 
-* ../src
-All source and other files necessary for building Paint.NET.
+* src/
+
+All source-code and other files necessary for building Paint.NET.
 
 ## License
 See _src/Resources/Files/License.txt_
